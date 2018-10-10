@@ -25,7 +25,6 @@
             "/bin/sh",
             "/etc/ssh/sshd_config",
             "/usr/libexec/ssh-keysign",
-            //ADDED BY MS
             "/usr/libexec/cydia/",
             "/System/Library/LaunchDaemons/com.saurik.Cydia.Startup.plist",
             "/var/lib/cydia/",
