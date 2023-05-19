@@ -3,6 +3,8 @@ Set of handlers in javascript to bypass protections and trace functions with Fri
 
 This set of handlers for frida aim to improve the process of hooking iOS and Android apps, sharing a unique repository of the different hooks implemented by Mobile team, so all of as can use them.
 
+<a href="https://www.buymeacoffee.com/carlesllobet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Usage
 
 Clone this repository:
